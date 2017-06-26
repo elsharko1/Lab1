@@ -24,7 +24,7 @@ public class Main {
         System.out.println("Perimeter: " + roomPerm);
         System.out.println("");
         System.out.println("Continue? y/n");
-        System.out.println("hi");
+        System.out.println("hello");
 
 
 
